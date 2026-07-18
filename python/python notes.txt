@@ -1,0 +1,70 @@
+**DATA TYPE:**
+
+Dictionaries: It is the collection of key values pairs.
+
+It is a mutable data type so we can add , delete and update the date, the data, we can execute the dictionary in the form, of
+
+
+
+
+
+\-------------------------------18-07-2026-------------------
+
+
+
+Set:
+
+   set stores unique values
+
+set stores only immutable / non changeable
+
+
+
+Why the order in set does not change for number but changes for characters/strings. Because set store values/ objects based
+
+
+
+
+
+
+
+dictionary:
+
+It is also a sequence but it stores values in the form of key and value pairs.
+
+
+
+why the order is not changing in dictionary even though it is unordered?
+
+
+
+Dictionary stored the values in it
+
+
+
+FrozenSet:
+
+    it is a set which cannot be changed after it creation.
+
+
+
+Note: When do we use tuple or frozenset .
+
+    we use them when we want to store values  which should not to be changed.
+
+
+
+    Eg:  Founder of a company.
+
+
+
+
+
+
+
+None data types:
+
+
+
+It is used represent absent tio
+
