@@ -1,0 +1,13 @@
+create database sam;
+
+use sam;
+
+ create table student1 (student_id int, student_name varchar(50), marks int, email_id varchar(50));
+
+desc student1;
+
+show tables;
+
+select * from student1;
+
+ 

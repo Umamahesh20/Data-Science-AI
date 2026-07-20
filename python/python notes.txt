@@ -8,7 +8,7 @@ It is a mutable data type so we can add , delete and update the date, the data, 
 
 
 
-\-------------------------------18-07-2026-------------------
+---------------------------------------------------------------------------18-07-2026----------------------------------------------------------------------
 
 
 
@@ -67,4 +67,27 @@ None data types:
 
 
 It is used represent absent tio
+
+
+
+
+
+
+---------------------------------------------------------------20/07/26-------------------------------------------------------------------------------
+
+
+Data Type Conversion vs Type Casting:
+
+	Type Conversion:
+		The automatic a operation assigning of data type when we perform 
+operations between two different data types is called type Conversion. Type conversion only possible between supportive data type 
+
+	Type casting:
+		Here the user changes the data type of an object manually.
+	
+	we use data type functions to type cast one data object into another data object.
+	here also type casting can happen only between supportive 
+
+
+
 
