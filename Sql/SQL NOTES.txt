@@ -69,8 +69,13 @@ it is a software tool  to manage the relational database management system.
 
 What is Sql ?
 It is a programming language which handles the software tool
--- ---- ------------- - 
-18/07/26 
+
+
+
+-- ---- ----------------------------------------------------------  18/07/26----------------------------------------------------------------------------- 
+
+
+
 My SQL: 
 it is a software deals with rdbms with Sql.
 
@@ -114,7 +119,7 @@ bigint:
 we can store upto -9.2 quintillion to +9.2
 unsigned values is o to 18.4 quintillion 
 byte size 8
-
+ex:
 Float:
 we can used to store the decimal approximate values in 0 to 7
 ex: temperature, scientific calculations.
