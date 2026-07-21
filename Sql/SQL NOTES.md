@@ -419,9 +419,3 @@ Truncte:
 the structure is constant but the data should  be deleated
 
 2.DML:
-
-
-git add README.md
-git add -u
-git commit -m "Convert README.txt to README.md"
-git push origin main

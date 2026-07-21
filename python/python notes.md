@@ -160,9 +160,9 @@ It is used represent absent tio
 
 &#x09;**Type Conversion:**
 
-&#x09;	The automatic a operation assigning of data type when we perform 
+&#x09;	The automatic a operation assigning of data type when we perform
 
-operations between two different data types is called type Conversion. Type conversion only possible between supportive data type 
+operations between two different data types is called type Conversion. Type conversion only possible between supportive data type
 
 
 
@@ -202,7 +202,104 @@ operations between two different data types is called type Conversion. Type conv
 
 
 
-Syntex 
+Syntex: Rules to write a program.
+
+Syntax: range(start, stop , step)
+
+start: from
+
+
+
+
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_21/07/2026\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+
+
+
+
+### Mutable / Changable  and immutable / non changeable objects:
+
+
+
+#### Mutable:
+
+&#x09;objects which can be changed after their creation.
+
+
+
+#### immutable:
+
+&#x09;objects which can't be changed after their creation.
+
+
+
+Immutable:			mutable:
+
+Intergerts,			List
+
+float				Set
+
+complex				Dictionary
+
+tuple
+
+string		
+
+
+
+
+
+
+
+
+
+
+
+
+### **Input() function:**
+
+&#x09;		**This** function is used to pass the values into my program after the execution of the program.
+
+
+
+
+
+### **Operators:**
+
+
+
+&#x09;operator is a symbol that performs some action between one or more then one objects.
+
+
+
+#### **Types of operators:**
+
+
+
+##### **Arithmetic:**
+
+&#x09;These operator are used to perform mathematical operations in our program.
+
+&#x09;operators:+,-,\*,/,//,%,\*\*.
+
+
+
+##### **Assignment:**
+
+&#x09;
+
+Comparison/relational
+
+Logical
+
+Identity
+
+Membership
+
+Bitwise
+
+warlus 
 
 
 

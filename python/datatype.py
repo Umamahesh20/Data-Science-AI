@@ -1,6 +1,6 @@
 # Datatypes in Python
 str='10'
-print(str(str))  # Output: 10
+print(str (str))  # type: ignore # Output: 10
 
 #Numerical Datatypes
 # integer: It is a whole number with no decimal point, it can be positive or negative.
