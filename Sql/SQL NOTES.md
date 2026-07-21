@@ -418,4 +418,3 @@ Truncte:
 
 the structure is constant but the data should  be deleated
 
-2.DML:
