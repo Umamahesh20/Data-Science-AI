@@ -244,7 +244,8 @@ complex				Dictionary
 
 tuple
 
-string		
+string
+
 
 
 
@@ -297,9 +298,37 @@ Identity
 
 Membership
 
-Bitwise
+Bitwis
 
-warlus 
+warlus
 
 
+
+
+
+**\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_22/07/26\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+
+
+
+
+
+
+##### **Assignment Operator:**
+
+
+
+&#x09;
+
+&#x09;theses are used to assign a value to a variable
+
+
+
+##### **Comparison Operator:**
+
+
+
+&#x09;	Two  compare values of two objects and they
+
+&#x09;
 

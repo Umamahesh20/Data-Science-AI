@@ -418,3 +418,16 @@ Truncte:
 
 the structure is constant but the data should  be deleated
 
+
+
+
+
+
+
+
+
+
+
+
+to replace value with  we use where class for  
+
