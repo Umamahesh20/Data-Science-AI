@@ -190,9 +190,45 @@ ________________________________________________________________________________
 	Syntax: Delete from tablename
 	
 
+_________________________________________________________________________23/07/2026_________________________________________________________________________
 
 
-3.DQL
+
+3.DQL(Data Quarry Language):
+	DQL is used to retrieve the data from the database. 
+
+	SELECT: it isused to reterive the data from a table.
+
+		Syntax: to return retrieve a single column 
+				select column name from tablename;
+			to reterive complete table
+				select * from tablename;
+
+Constrations: it works by  using some rules to be applied to retrieve the dat 
+
+
+Why we use ?
+
+to maintain the accuracy and consistency:
+
+where we use it?
+while creating a table
+
+1.not Null
+it doesnot allow null values in that column. if values should be there it shows an error. 
+
+Syntax: create table tablename (columnname datatype not null);
+
+
+
+2.Unique
+it doesnot allow duplicate values
+
+Syntax: create table tablename (columnname datatype unique );
+
+3.Primary Key : It does not allows null values and duplicates in the table
+
+Syntax: Create table tablename(columnname datatype primary key);
 
 4.DCL
 
