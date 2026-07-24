@@ -77,3 +77,15 @@ list1 = [1, 2, 3]
 list2 = [1, 2, 3]
 print(list1 is list2)  # False, list1 and list2 are not the same object
 print(list1 == list2)  # True, list1 and list2 have the same values
+
+
+#membership operator:
+
+names=['shanker','dinesh','jaydeep','shiva','teja']
+print('jaydeep ' in names)
+print('mahesh'in names)
+
+#not in
+
+print('Raavi' not in names)
+print('')
