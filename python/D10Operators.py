@@ -18,3 +18,4 @@ print(3<<1)
 
 #Bitwise right shift(>>):
 print(3>>1)
+
