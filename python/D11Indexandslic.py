@@ -47,3 +47,6 @@ print(tuple1[::3])
 tech = 'Machine Learning'
 
 print(tech[::-1])#negative step, to jump on element fro last
+
+
+print(tech[1])
