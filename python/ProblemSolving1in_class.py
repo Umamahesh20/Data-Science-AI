@@ -66,3 +66,6 @@ total=0
 for mark in marks:
     total+=mark
 print(f'The total marks are:{total}')
+
+# convert given seconds into hours , minutes and remaining
+#secods
