@@ -59,5 +59,3 @@ def Withdraw():
             return f'Insufficient balance. Current balance is {balance}'
     print(withdrawAmount(15000))
 Withdraw()
-
-
