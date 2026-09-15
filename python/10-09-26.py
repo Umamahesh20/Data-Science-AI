@@ -49,11 +49,11 @@
 # empIdAssign(['sumanth','usha sri','venkatesh','madhesh','roshini'])
 
 
-emp=['sumanth','usha sri','venkatesh','madhesh','roshini']
-sals=[60000,40000,50000,70000,80000]
-place=['Hyderabad', 'Guntur','Vijayawada','Bangalore','Chennai']
-for empname,salaly,city in zip(emp,sals,place):
-    print(f'Employee name:{empname} and salary is:{salaly} and palce is:{city}')
+# emp=['sumanth','usha sri','venkatesh','madhesh','roshini']
+# sals=[60000,40000,50000,70000,80000]
+# place=['Hyderabad', 'Guntur','Vijayawada','Bangalore','Chennai']
+# for empname,salaly,city in zip(emp,sals,place):
+#     print(f'Employee name:{empname} and salary is:{salaly} and palce is:{city}')
 
 # nenumerate() and zip()  together
 #write a funtion to generate product ids for list of products withn enumerate function also
