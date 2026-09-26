@@ -20,12 +20,20 @@
 # print(zeroMatrics)
 # names=['kiran','sumanth','mahesh','mouni']
 # upper=[i.upper() for i in names]
-# print(upper)
+# # print(upper)
 
-nums=[56,76,23,11,-2,707,43,90,71,77]
+# nums=[56,76,23,11,-2,707,43,90,71,77]
 
-costPrice=[11299,13999,15899,34999,56986]
-#genrate a list of selling prices by adding 10% of each
-#price to itself  using comprehesion.
-selllingPrice=[f'{price*1.1 }'for price in costPrice]
-print(selllingPrice)
+# costPrice=[11299,13999,15899,34999,56986]
+# #genrate a list of selling prices by adding 10% of each
+# #price to itself  using comprehesion.
+# selllingPrice=[f'{price*1.1:.2f }'for price in costPrice]
+# print(selllingPrice)
+
+emails=['sumanthteja@tesla.com','umamahesh@spacex.com','vyshinavi@oracal.com']
+#write a comprehension to generate a list of usernames 
+#from emails
+username=[email.split('@')[0] for email in emails]
+dominname=[email.split('@')[-1] for email in emails]
+print(username)
+print(dominname)
