@@ -21,3 +21,7 @@ print(cube)
 words=['python', 'Aritificial Intelligence ', 'Machine Learn', 'Java', 'C++']
 wordLen={len(word): word for word in words if len(word)>5}
 print(wordLen)
+
+marks={'ipsiths':72, 'benjaminu':34, 'lankesh':65, 'doritha':75,'eeston':20,'peddi':76, 'jadal':34}
+result={name:'pass' if mark > 36 else 'fail ' for name,mark in marks.items()}
+print(result)
