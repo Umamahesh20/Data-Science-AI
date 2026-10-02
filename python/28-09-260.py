@@ -26,6 +26,17 @@
 
 #write a tuple comprehension to genrate a tuple of selling price by adding discount such that if prce is 
 #grater then 25000 give 11% discount else give 7% discount
-prices=[12999,23999,45999,37999,11999,57999,88999]
-discount=tuple(price-(price*0.11) if price>25000  else price-(price*0.07) for price in prices  )
-print(discount)
+# prices=[12999,23999,45999,37999,11999,57999,88999]
+# discount=tuple(price-(price*0.11) if price>25000  else price-(price*0.07) for price in prices  )
+# print(discount)
+
+
+#nested comperhension
+#genrate all possible  2 number combos for number1 to 
+
+# pp=[(i,j) for i in range(1,6) for j in range(1,6)]
+# print(pp)
+
+list1=[i*100+j*10+k for i in range(1,6) for j in range(1,6) for k in range (1,6)]
+print(list1)
+
