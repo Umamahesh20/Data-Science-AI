@@ -31,4 +31,14 @@
 # print(list(filtered))
 
 #write a lambda function to filter out salaries which are greater then 50000
-#
+#from a lis of salaries using filter function
+
+# salaries=[75000,45000,56000,34000,23000,55000,18000]
+# lamfun= lambda salary:salary>50000
+# filtered=tuple(filter(lamfun,salaries))
+# print(filtered)
+
+# celebs=['prabhasraju@]bheemavarma.com','janvikapoor@bolly.com','peddi@appalavalasacom','jadalparadise.com']
+# lamf=lambda email:'@' in email and '.' in email
+# valid_emails=list(filter(lamf,celebs))
+# print(valid_emails)
