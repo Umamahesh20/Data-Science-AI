@@ -1,4 +1,4 @@
-import time
+# import time
 # def printNums(num):
 #     if num<1:
 #         print('Time Up')
@@ -28,8 +28,28 @@ import time
 #     return num*numfact(num-1)
 # print(numfact(10))
 
-def noofDigit(n):
-    if n==0:
+# def noofDigit(n):
+#     if n==0:
+#         return n
+#     return 1+noofDigit(n//10)
+# print(noofDigit(345234567898765434567898765433456789))
+
+
+# def sumofDig(num):
+#     if num==0:
+#         return num
+#     return num%10+sumofDig(num//10)
+# print(sumofDig(345))
+
+def mulofDig(num):
+    if num==1:
+        return num
+    return num%10 * mulofDig(num//10)
+print(mulofDig(67))
+
+nesStucr=[1,[2,3],[4,[5,6]]]
+def  nesStucr(n):
+    if n==1:
         return n
-    return 1+noofDigit(n//10)
-print(noofDigit(345234567898765434567898765433456789))
+    return n
+    
